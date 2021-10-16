@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qyfeng1021.github.io</id>
     <title>Gridea</title>
-    <updated>2021-10-16T04:06:16.393Z</updated>
+    <updated>2021-10-16T04:28:09.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qyfeng1021.github.io"/>
     <link rel="self" href="https://qyfeng1021.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://qyfeng1021.github.io/images/avatar.png</logo>
     <icon>https://qyfeng1021.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[1. 职业摄影师们的建议]]></title>
+        <id>https://qyfeng1021.github.io/post/1-zhi-ye-she-ying-shi-men-de-jian-yi/</id>
+        <link href="https://qyfeng1021.github.io/post/1-zhi-ye-she-ying-shi-men-de-jian-yi/">
+        </link>
+        <updated>2021-10-16T04:09:38.000Z</updated>
+        <content type="html"><![CDATA[<p><em>如果你的照片不够清晰，那么其他一切免谈</em></p>
+<p>对于职业摄影师们而言，拍出成像清晰的照片极为重要，以至于他们为此专门创造了一个术语——“tack sharp”。数年前我第一次听到这个术语流传起来的时候，我自然而然地以为它来源于俗语——“像大头针一般锐利”。然而后来我在撰写本书时查阅了大量关于该术语的资料，结果令我感到尤为震惊。<br>
+　　首先，它完全不是基于俗语“像大头针一样锐利”。实际上，它是取自于每个单词首字母的缩略词。TACK（Technically Accurate Cibachrome Kelvin)表示在技术上能准确地达到西巴克罗姆印相法效果的色温，SHARP(Shuttle Hyperfocal At Refracted Polarization) 代表在折射偏振下的快门超焦距。<br>
+　　乍一听这些术语都相当专业，但如果当我告诉你，这些都只是我编出来的，你还会觉得它们很复杂吗？我打赌我在括号里补充的“光的色温”起到了作用，让你觉得这个说法更可信对吧？<br>
+　　没关系，承认你被戏弄了不是什么大不了的事，就跟承认你以前拍的照片一点也不清晰一样。总之，别管那些术语了。重点在于要如何才能拍好一张照片，我想说的就是这些。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://qyfeng1021.github.io/post/test/</id>
