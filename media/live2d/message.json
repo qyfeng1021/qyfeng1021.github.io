@@ -14,7 +14,7 @@
         },
         {
             "selector": "#live2d",
-            "text": ["想好晚上吃什么了吗？"]
+            "text": ["想好晚上吃什么了吗？", "你还是……笑起来最棒了……", "One brings shadow, one brings the light"]
         },
         {
             "selector": ".avatar",
@@ -24,7 +24,7 @@
     "click": [
         {
             "selector": "#landlord #live2d",
-            "text": ["喵？", "喵~~~~", "喵喵喵喵！！！"]
+            "text": ["喵？", "喵喵喵？", "喵......", "别点了，你今天提了吗"]
         }
     ]
 }
