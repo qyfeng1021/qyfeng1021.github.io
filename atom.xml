@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qyfeng1021.github.io</id>
     <title>Gridea</title>
-    <updated>2021-10-20T10:22:13.881Z</updated>
+    <updated>2021-10-20T10:52:26.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qyfeng1021.github.io"/>
     <link rel="self" href="https://qyfeng1021.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://qyfeng1021.github.io/images/avatar.png</logo>
     <icon>https://qyfeng1021.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[C-E 介绍类；银行]]></title>
+        <id>https://qyfeng1021.github.io/post/c-e-jie-shao-lei-yin-xing/</id>
+        <link href="https://qyfeng1021.github.io/post/c-e-jie-shao-lei-yin-xing/">
+        </link>
+        <updated>2021-10-20T10:22:16.000Z</updated>
+        <content type="html"><![CDATA[<p>  Our bank was established in 1978, which was one of the earliest new-type bank set up during the period of reform and opening-up. It was the first commercial bank engaging in financing in both domestic and foreign financial market, and was well-known both at home and abroad for its multiple precursor actions in Chinese modern financial history, making positive contribution for Chinese economic development. In April 2007, it was listed on both Shanghai Stock Exchange and the Stock Exchange of Hong Kong with A shares and H shares.<br>
+　　We are visioning in building a best comprehensive commercial service industry with responsibility, kindness, speciality and dignity, taking our advantages of<br>
+　　Until the end of 2019, we possess 1401 banking offices settling in 151 medium and large cities in China, and 6 subsidary bodies abroad.<br>
+　　It consists in serving for the real economy, operating steadily and keeping pace with the times. With 30 years development, it has becoming a financial union with strong power in comprehensive fields and brand competitiveness, owning more than 6 trillion yuan in total assets and about 60,000 staff. In 2019, it was ranked at the 26th of the &quot;Top 100 banks in the world&quot; on the British magazine &quot;the Bankers&quot;.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对发布在网上的照片进行二次锐化]]></title>
         <id>https://qyfeng1021.github.io/post/dui-fa-bu-zai-wang-shang-de-zhao-pian-jin-xing-er-ci-rui-hua/</id>
@@ -97,15 +109,6 @@
         </link>
         <updated>2021-10-20T07:34:55.000Z</updated>
         <content type="html"><![CDATA[<p>  如果你不想使用快门线(或遥控快门)，或是外出摄影时忘带了(我经常会忘)，那么你还可以使用数码相机内置的自拍模式。我知道，通常你使用自拍模式是为了方便快速地跑到镜头前，然后把自己拍下来。但换个角度想想，自拍模式的作用是什么呢？它能让你无需接触相机就能拍照，明白了吗？因此它也同样能帮你避免相机晃动——你只需要等待十秒即可。如果不想等，那就看看相机是否能够设置更短的定时。我就将我相机的自动定时调到了五秒(如图所示)。我按下快门键，等待五秒后，照片就拍好了(我计算过，五秒足够消除按下快门键带来的晃动了)。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用快门线]]></title>
-        <id>https://qyfeng1021.github.io/post/shi-yong-kuai-men-xian/</id>
-        <link href="https://qyfeng1021.github.io/post/shi-yong-kuai-men-xian/">
-        </link>
-        <updated>2021-10-20T07:28:36.000Z</updated>
-        <content type="html"><![CDATA[<p>  虽然现在你得拖着三脚架到处跑，但你拍出来的照片更加清晰了(尽管还达不到tack sharp的程度)。为了进一步提升清晰度，下一步该干什么？答案是快门线。简单来说，快门线只是一根连接在你数码相机上的数据线，末端带有按钮。当你拍摄的时候，你可以不用直接触碰相机快门键，而只需按下快门线末端的按钮即可。那么，为什么这很重要呢？原因在于，当你按下相机上的快门键时，相机会产生轻微晃动，这样拍出来的相片就达不到tack sharp的效果了。我知道，这听起来微不足道，但并非危言耸听。使用快门线比想象中简单多了，现在大多数的数码相机也支持无线遥控快门，并且价格也很实惠。使用快门线后，就能拍出更清晰的相片了。</p>
 ]]></content>
     </entry>
 </feed>
