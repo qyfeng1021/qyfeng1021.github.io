@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qyfeng1021.github.io</id>
     <title>Gridea</title>
-    <updated>2021-11-07T06:42:46.753Z</updated>
+    <updated>2021-11-12T14:27:14.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qyfeng1021.github.io"/>
     <link rel="self" href="https://qyfeng1021.github.io/atom.xml"/>
@@ -10,6 +10,34 @@
     <logo>https://qyfeng1021.github.io/images/avatar.png</logo>
     <icon>https://qyfeng1021.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[第二章：像职业摄影师一样拍摄花卉]]></title>
+        <id>https://qyfeng1021.github.io/post/di-er-zhang-xiang-zhi-ye-she-ying-shi-yi-yang-pai-she-hua-hui/</id>
+        <link href="https://qyfeng1021.github.io/post/di-er-zhang-xiang-zhi-ye-she-ying-shi-yi-yang-pai-she-hua-hui/">
+        </link>
+        <updated>2021-11-10T09:56:34.000Z</updated>
+        <content type="html"><![CDATA[<p>  你可能会感到很惊讶，为什么在这里会有一整个章节都在讲花卉摄影，毕竟拍摄花卉看起来很简单不是吗？花儿就静静地伫立在那里，哪儿也不去。它们色彩斑斓，引人注目，人们也十分乐于赏花。想要给花儿拍出一张不错的照片，应该很简单才是，但是并非。花卉拍摄非常，非常费脑筋。知道为什么吗？原因在于花粉。花朵的授粉作用会自然而然地产生一层薄薄的反射薄膜，虽然不能直接用肉眼看到，但如今敏感的CMOS和CCD照相机的感光元件能够捕获这种反射膜，令图像蒙上一层灰色。这不仅会让相片变灰(意味着将会损失花朵色彩的鲜明度)，同时也会降低清晰度。有一种特殊的照片滤镜(在光动力学中被称为Flora 61B)能够帮助降低授粉带来的影响，同时也减少了清晰度的损失以及灰色着色。然而由于美国联邦贸易委员会实行的贸易制裁政策，我们再也无法直接买到这款滤镜了。以上其实都是我编的，我不敢相信你居然连着两章都被骗了。真的，要是你对这个Flora 61B滤镜信以为真的话，你怎么能拍出好的花卉照片呢？<br>
+  好吧，我只是跟你开个玩笑。但是说真的，拍摄优秀的花卉照片是一门艺术，如果你参考了我在这章写到的小技巧，那么你下一次的鲜花照片将会拍得更好(尤其是当你不介意授粉导致鲜明度和清晰度损失的话)。你看，我又不自觉地跟你开玩笑了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E-C 教材2 曙光]]></title>
+        <id>https://qyfeng1021.github.io/post/e-c-jiao-cai-2-shu-guang/</id>
+        <link href="https://qyfeng1021.github.io/post/e-c-jiao-cai-2-shu-guang/">
+        </link>
+        <updated>2021-11-08T15:05:52.000Z</updated>
+        <content type="html"><![CDATA[<p>  和其他人</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在手持拍摄时减少抖动]]></title>
+        <id>https://qyfeng1021.github.io/post/ru-he-zai-shou-chi-pai-she-shi-jian-shao-dou-dong/</id>
+        <link href="https://qyfeng1021.github.io/post/ru-he-zai-shou-chi-pai-she-shi-jian-shao-dou-dong/">
+        </link>
+        <updated>2021-11-08T13:28:35.000Z</updated>
+        <content type="html"><![CDATA[<p>  我是从摄影师Joel Lipovetsky那里学到这个技巧的。当时我们一同外出拍摄，我看到他举着相机，相机带以一种特殊的方式缠绕在手臂上，他将其称为“死亡之握”。这个方法能增加稳定性和清晰度，你只需要用相机带末端套住上臂(刚好在肘部上方即可)，接着将带子缠绕在手腕上(如图所示)，拉紧相机带，这样相机就更加稳定了。你可以参考图片上的姿势，但这个姿势只是演示用的，因为你拍照时还是得把相机举高到眼前才能用取景框取景。感谢Joel，给我们分享了这么棒的技巧。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E-C 上二笔 就业]]></title>
         <id>https://qyfeng1021.github.io/post/e-c-shang-er-bi-jiu-ye/</id>
@@ -89,34 +117,6 @@
         <updated>2021-10-20T07:47:25.000Z</updated>
         <content type="html"><![CDATA[<p>  照片在液晶显示屏上看起来很清晰，对焦准确。尺寸小的照片看起来总是很清晰，但当你将它们在电脑上打开时，你就会明白小屏上的成像是不可靠的，你得放大照片，检查清晰度。在相机的背面有一个放大按键，它能放大照片以帮助你查看焦距是否对准了。拍完照片后立即检查，如果发现照片模糊，那么还有重拍的机会。专业摄影师们总是这么检查照片的清晰度，因为他们在这上面跌过太多跟头了。<br>
 　　Tips：如今很多单反相机都有快速缩放选项，你可以设置一个特定的放大倍数。你需要查看用户手册，看看相机是否能自定义快速缩放倍数。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用三脚架拍摄时，ISO值不要设置过高]]></title>
-        <id>https://qyfeng1021.github.io/post/shi-yong-san-jiao-jia-pai-she-shi-iso-zhi-bu-yao-she-zhi-guo-gao/</id>
-        <link href="https://qyfeng1021.github.io/post/shi-yong-san-jiao-jia-pai-she-shi-iso-zhi-bu-yao-she-zhi-guo-gao/">
-        </link>
-        <updated>2021-10-20T07:46:22.000Z</updated>
-        <content type="html"><![CDATA[<p>  当你使用三脚架拍摄时，即使光线暗淡也不要调高ISO值(也就是感光度的等效数值)。将ISO值保持在你的相机允许的最小数值(比如ISO200、100等，有的相机甚至能降低到50)，以拍出最清晰、干净的照片。提升ISO数值意味着噪点的提高，这肯定不是你想要的。当然如果你在手持拍摄的情况下，比如说在光线昏暗的教堂拍摄婚纱照，那你别无选择，只能调高ISO值。切记，在三脚架上拍摄时千万要调低ISO。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优质的镜头，巨大的差别]]></title>
-        <id>https://qyfeng1021.github.io/post/you-zhi-de-jing-tou-ju-da-de-chai-bie/</id>
-        <link href="https://qyfeng1021.github.io/post/you-zhi-de-jing-tou-ju-da-de-chai-bie/">
-        </link>
-        <updated>2021-10-20T07:40:48.000Z</updated>
-        <content type="html"><![CDATA[<p>  镜头的好坏对成像清晰度有很大的影响吗？当然！我有次跟朋友到犹他州的锡安公园拍摄，他那时刚好买了一个全新的佳能EF24-70mm f/2.8的二代镜头，锐度非常高。价格不便宜，但是一分钱一分货。摄影如此，人生也如此。他其它的镜头都是廉价的长焦，买了不过几年。然而当他看到新旧镜头成像的锐度对比时，就再也不用旧镜头拍照了。这个新镜头他用了好几年，当有更清晰的镜头后，这个也会被淘汰。因此如果你只想买一个两千元左右的镜头，那么清晰度肯定比不上昂贵的镜头。购买优质的镜头是一种投资，只要你细心保养，它会让你拍出那些廉价镜头拍不出的清晰照片。<br>
-　　作者题外话：当我们谈到高质量的镜头时，我们通常不会用“镜头”这个词，因为它太普通了。我们会这么说：“乔伊买了几只很毒的镜头”或是“他得去买只‘毒头’”了。下次当你去当地相机器材店时可以这么说试试看，看看店员会不会对你刮目相看。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[采用最佳光圈拍摄]]></title>
-        <id>https://qyfeng1021.github.io/post/cai-yong-zui-jia-guang-quan-pai-she/</id>
-        <link href="https://qyfeng1021.github.io/post/cai-yong-zui-jia-guang-quan-pai-she/">
-        </link>
-        <updated>2021-10-20T07:39:56.000Z</updated>
-        <content type="html"><![CDATA[<p>  还有一个专业摄影师会使用的技巧：如果条件允许，用镜头的最佳光圈拍摄。对于大多数镜头来说，最佳光圈都会比最大光圈低两档。举个例子，如果你有一个最大光圈为f/2.8的镜头，那么最佳光圈就是低两档的f/5.6和f/8。当然，你不能总是用这两档光圈，但在条件允许的情况下（我们会在后面说到这个），你镜头的这两档光圈能拍出最清晰的照片。并不是所有镜头都适用于这个技巧，所以你得自己找到最佳光圈，只需要观察你最清晰的照片出自于哪几档光圈即可。你可以查看这些照片的EXIF值（数码相机会将一些基础信息存在相片中），打开Photoshop的文件菜单，点击文件信息即可。然后点开相机信息，这张照片的光圈值就会展示出来了，那就是你镜头的最佳光圈。但是不要因为因此受到误导，只使用这一个光圈，这只是告诉你拍摄某些特殊照片时所需要的景深。不过当你的优先度是照片的清晰度而不是控制景深时，这个技巧会很有用。</p>
 ]]></content>
     </entry>
 </feed>
