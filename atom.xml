@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qyfeng1021.github.io</id>
     <title>Gridea</title>
-    <updated>2021-11-13T08:29:29.717Z</updated>
+    <updated>2021-11-14T07:58:03.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qyfeng1021.github.io"/>
     <link rel="self" href="https://qyfeng1021.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://qyfeng1021.github.io/images/avatar.png</logo>
     <icon>https://qyfeng1021.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[2-1 不要俯拍花卉]]></title>
+        <id>https://qyfeng1021.github.io/post/2-1-bu-yao-fu-pai-hua-hui/</id>
+        <link href="https://qyfeng1021.github.io/post/2-1-bu-yao-fu-pai-hua-hui/">
+        </link>
+        <updated>2021-11-14T03:19:41.000Z</updated>
+        <content type="html"><![CDATA[<p>  当你平日里路过田野间的野花，或是穿过花园小径时，你会低头看那些从地面上长出来的花。因此当你站着花旁，用我们日常俯视的角度拍摄花卉时，拍出来的照片将会非常平庸。如果你想拍出具有视觉冲击力的照片，你得去寻找日常我们不会看到的角度。这就意味着，不是自上而下的俯拍，而是蹲下身子，从与花同一水平线的高度去拍摄。这又是一个专业摄影师常用但总是被业余爱好者忽略的小技巧。如果你想拍出非常棒的花卉照片，你就得做好手被弄脏的准备(至少膝盖是这样)。上图显示出了它们的不同之处：左图是典型的俯拍视角，而右图是在左图拍完的30s后拍摄的，花、光线和焦距镜头都一样，只不过我是单膝跪下从花的侧面拍摄的。能看得出，非典型角度下拍出来是有所差异的。因此，为了拍出优秀的花卉照片，试着别去俯拍它们。顺便说下，当你蹲下时，尽量压低身体(比花还低)，这样你就能从一个平时几乎不会见到但十分迷人的角度拍摄了！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C-E 教材3 推荐信]]></title>
+        <id>https://qyfeng1021.github.io/post/c-e-jiao-cai-3-tui-jian-xin/</id>
+        <link href="https://qyfeng1021.github.io/post/c-e-jiao-cai-3-tui-jian-xin/">
+        </link>
+        <updated>2021-11-13T08:30:28.000Z</updated>
+        <content type="html"><![CDATA[<p>To Whom It May Concern:<br>
+  My name is ABC, a professor of regional economics and city geography in the School of Population, Resources and Environment of XYZ Teachers University. I first came to know Victoria Li when she took my course on &quot;Urban Geography&quot;, and she impressed me right from the start.<br>
+  In the first class, I asked a question that I was not expected it to be answered by anyone, and I randomly picked Victoria, but to my superise, she gave a very satisfiable answer, showing that she had already made earnest and comprehensive preparation of the class.<br>
+  In the later class discussions, Victoria was always willing to show her ideas passionately, and expressed them clearly and logically.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第二章：像职业摄影师一样拍摄花卉]]></title>
         <id>https://qyfeng1021.github.io/post/di-er-zhang-xiang-zhi-ye-she-ying-shi-yi-yang-pai-she-hua-hui/</id>
@@ -93,30 +114,6 @@
         </link>
         <updated>2021-10-20T08:03:09.000Z</updated>
         <content type="html"><![CDATA[<p>  如果你用Photoshop锐化了照片，并为发布到网页上而缩小了照片尺寸与分辨率，那么你需要再一次使用钝化蒙版滤镜以提高清晰度。原因在于：当你缩小图像尺寸和分辨率时，在调整大小的过程中会损失清晰度，因此我总会再次使用滤镜微调以减少清晰度的损失。我通常将钝化蒙版滤镜的参数设置为：锐化值70%，半径1.0，阈值10。但在按下确定键前，我会略扫一眼照片以确保锐化没有过度。如果锐度太高，那么将锐化值调到50就行，然后再看看整体效果。如果还是太高，那么就调到40或30(我从来不会将锐化值降到30以下，但你的照片，你自己说了算)。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Photoshop提升清晰度]]></title>
-        <id>https://qyfeng1021.github.io/post/yong-photoshop-ti-sheng-qing-xi-du/</id>
-        <link href="https://qyfeng1021.github.io/post/yong-photoshop-ti-sheng-qing-xi-du/">
-        </link>
-        <updated>2021-10-20T07:48:17.000Z</updated>
-        <content type="html"><![CDATA[<p>  如果你在拍摄中使用了所有前文所提到过的小技巧，并已经拍出了许多不错的清晰照片，你还可以使用Photoshop或Photoshop基础版继续提升照片清晰度。那么我们需要调整哪些照片呢？答案是所有。我们将用Photoshop的钝化蒙版滤镜来锐化每张照片。这个滤镜听起来会让你的照片模糊不清，但实际上并不会。它来源于传统暗房术语，一直保留到了现在。操作方法很简单，在Photoshop中打开照片，在滤镜菜单中找到锐化选项，选择钝化蒙版即可。窗口中有三个滚动条，可以调整不同的锐化参数。不用研究具体的技术细节，我会给你提供五类我偏爱的设置。</p>
-<p>（1）人像摄影：锐化值150%，半径1， 阈值10</p>
-<p>（2）城市景观或旅游摄影：锐化值65%，半径3，阈值2</p>
-<p>（3）日常摄影：锐化值120%，半径1，阈值3</p>
-<p>（4）超清摄影（体育摄影，风光，或需要大量细节的东西）：锐化值95%，半径1.5，阈值1</p>
-<p>（5）发在网上的照片：锐化值85%，半径1，阈值4</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[放大照片，检查清晰度]]></title>
-        <id>https://qyfeng1021.github.io/post/fang-da-zhao-pian-jian-cha-qing-xi-du/</id>
-        <link href="https://qyfeng1021.github.io/post/fang-da-zhao-pian-jian-cha-qing-xi-du/">
-        </link>
-        <updated>2021-10-20T07:47:25.000Z</updated>
-        <content type="html"><![CDATA[<p>  照片在液晶显示屏上看起来很清晰，对焦准确。尺寸小的照片看起来总是很清晰，但当你将它们在电脑上打开时，你就会明白小屏上的成像是不可靠的，你得放大照片，检查清晰度。在相机的背面有一个放大按键，它能放大照片以帮助你查看焦距是否对准了。拍完照片后立即检查，如果发现照片模糊，那么还有重拍的机会。专业摄影师们总是这么检查照片的清晰度，因为他们在这上面跌过太多跟头了。<br>
-　　Tips：如今很多单反相机都有快速缩放选项，你可以设置一个特定的放大倍数。你需要查看用户手册，看看相机是否能自定义快速缩放倍数。</p>
 ]]></content>
     </entry>
 </feed>
