@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qyfeng1021.github.io</id>
     <title>Gridea</title>
-    <updated>2021-11-14T08:00:18.480Z</updated>
+    <updated>2021-11-15T02:49:19.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qyfeng1021.github.io"/>
     <link rel="self" href="https://qyfeng1021.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://qyfeng1021.github.io/images/avatar.png</logo>
     <icon>https://qyfeng1021.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[2-2 用变焦镜头拍摄]]></title>
+        <id>https://qyfeng1021.github.io/post/2-2-yong-bian-jiao-jing-tou-pai-she/</id>
+        <link href="https://qyfeng1021.github.io/post/2-2-yong-bian-jiao-jing-tou-pai-she/">
+        </link>
+        <updated>2021-11-15T02:33:01.000Z</updated>
+        <content type="html"><![CDATA[<p>  你不必为了拍出好照片而专门去买一只微距镜头，只用变焦镜头就够了。有两点原因：(1)你可以将镜头拉得非常近，让花朵充满整个取景框。(2)使用变焦镜头能很容易地让背景失焦，因此焦点中就只剩下花朵。我们从光圈优先模式开始(将模式拨到A或Av)，然后将镜头光圈调到最大(比如说，如果你有一只f/5.6的镜头，就用f/5.6的光圈)。接着尝试只拍一朵花，或是一小丛挨得很近的花，焦点只对准花。这样背景就会离焦，减少了视觉上的干扰，给人以更强的视觉冲击力。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2-1 不要俯拍花卉]]></title>
         <id>https://qyfeng1021.github.io/post/2-1-bu-yao-fu-pai-hua-hui/</id>
@@ -42,12 +51,14 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[E-C 教材2 曙光]]></title>
+        <title type="html"><![CDATA[E-C 教材2 黎明前的秘密仪式]]></title>
         <id>https://qyfeng1021.github.io/post/e-c-jiao-cai-2-shu-guang/</id>
         <link href="https://qyfeng1021.github.io/post/e-c-jiao-cai-2-shu-guang/">
         </link>
         <updated>2021-11-08T15:05:52.000Z</updated>
-        <content type="html"><![CDATA[<p>  和其他人</p>
+        <content type="html"><![CDATA[<p>  在我的人生中，有那么一段时间里我是与黎明无缘的。我不是早起的鸟儿，日出只会让我联想到跨越数个时区的长途航班，拖着疲惫的身体在陌生的城市中穿行，等待着旅馆腾出房间。然而当我有了孩子后，清晨的第一道曙光对我来说便有了新的意义。有时它是我在彻夜不休照顾发烧婴儿后的一声叹息，而有时则是精力充沛的三岁孩子热情迎接新的一日到来而发出的欣喜叫喊。直到孩子大了，忙了一整个早晨送完孩子上学，我才能在转瞬即逝的昼夜交替中找到片刻宁静。只需要牺牲十五分钟的睡眠时间，我便可以享受十五分钟独处的安宁时光，喝喝咖啡，或是看看报纸。由于时间短暂，我养成了快速浏览报纸的习惯，并逐渐演变为偷偷地、几乎是迷信地查阅讣告的习惯。<br>
+  开始我只是将这个新习惯归结于逐渐增长的年纪(最近刚满四十)，并郁郁寡欢地得出了自己的心理趋于病态的结论。但在养成这个习惯的多年后，我发现它有着十分积极的意义。我意识到自己并不是因为迷恋死亡而阅读讣告，而是在探索生命，真正的生命。讣告记录人一生中重要的时刻，却不会对它们做出评判。许多普利策奖得主们开玩笑说，当他们获奖时就已经预见自己讣告的标题了。你很容易就能在讣告中找到一个人的巅峰时刻，但我更感兴趣的不是这个。我会仔细阅读讣告，从字里行间中找出一生中所遇到的失意与低谷，难以言喻的心路转折与命运的无常变化，冒险的赌注与无法预料的后果，以及未了的心愿。<br>
+  这些讣告反复地传递出了一个信息，那就是在人的一生中，尽管很多事情看起来按部就班地进行着，但大多数情况都是计划赶不上变化。就像我读过的每一本传记与讣告那样，你总会遇到很多计划外的意外。</p>
 ]]></content>
     </entry>
     <entry>
@@ -105,15 +116,6 @@
         <content type="html"><![CDATA[<p>  Established in 1978, the bank is one of the earliest emerging commercial banks since China's reform and opening-up policy, and the first commercial bank carrying out financing in both domestic and overseas markets. It is well-known to the rest of the world for setting many records for the first time in modern history of Chinese finance, making a positive contribution to the economic growth of China. In April 2007, the bank was listed on the Shanghai Stock Exchange and the Hong Kong Stock Exchange.<br>
 　　Our vision is to build the best comprehensive financial service enterprise with responsibility, care, characteristics and dignity, as it endeavors to give full play to the unique competitive advantages of CITIC Group's finance and industry. We insist the customer-centered principle, and are committed to company security, compliant operation, and value-creating. It provides comprehensive financial solutions for corporate and institutional clients, such as corporate banking, international business, financial market business, institutional business, investment banking, trade banking and custody service. It provides diverse financial products and service for individual clients, such as retail bank, credit card, consumer finance, wealth management, private banking, overseas finance and electronic banking. These services are thus offered to fully satisfy comprehensive financial service need of corporate, institutional and individual customers.<br>
 　　By the end of 2019, the bank boasts 1401 banking offices operating in 151 medium- and large-sized cities of China and 6 subsidary bodies abroad. The bank remains committed to serving real economy while keeping pace with the times in a steady and sustainable manner. After 30 years of development, the bank has emerged as a financial group with strong comprehensive strength and brand competitiveness. It has total assets of over 6 trillion yuan in total assets and employs nearly 60,000 people. According to the British <em>'The Banker'</em> in 2019, the bank ranked in the list of the &quot;Top 100 banking brands&quot;.</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对发布在网上的照片进行二次锐化]]></title>
-        <id>https://qyfeng1021.github.io/post/dui-fa-bu-zai-wang-shang-de-zhao-pian-jin-xing-er-ci-rui-hua/</id>
-        <link href="https://qyfeng1021.github.io/post/dui-fa-bu-zai-wang-shang-de-zhao-pian-jin-xing-er-ci-rui-hua/">
-        </link>
-        <updated>2021-10-20T08:03:09.000Z</updated>
-        <content type="html"><![CDATA[<p>  如果你用Photoshop锐化了照片，并为发布到网页上而缩小了照片尺寸与分辨率，那么你需要再一次使用钝化蒙版滤镜以提高清晰度。原因在于：当你缩小图像尺寸和分辨率时，在调整大小的过程中会损失清晰度，因此我总会再次使用滤镜微调以减少清晰度的损失。我通常将钝化蒙版滤镜的参数设置为：锐化值70%，半径1.0，阈值10。但在按下确定键前，我会略扫一眼照片以确保锐化没有过度。如果锐度太高，那么将锐化值调到50就行，然后再看看整体效果。如果还是太高，那么就调到40或30(我从来不会将锐化值降到30以下，但你的照片，你自己说了算)。</p>
 ]]></content>
     </entry>
 </feed>
